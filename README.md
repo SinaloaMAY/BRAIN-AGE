@@ -3,8 +3,7 @@
  Additionally, the model is evaluated on a validation set, with performance metrics including R², mean absolute error (MAE), and root mean squared error (RMSE) calculated to assess the accuracy of the brain age predictions. Data augmentation techniques including … are also employed to enhance the robustness of the model by randomly manipulating the input data.
 
 
-
-   Project Title: Machine learning-based MRI brain-age prediction and relationship to frailty index
+2. Project Title: Machine learning-based MRI brain-age prediction and relationship to frailty index
    Highlights:
    1. Brain-age was predicted from 5 different MRI sequences.
    2. By employing a three-branch architecture using ASL + SWI, T2 flair + fMRI, and DTI, we achieved information interaction between different sequences through a machine learning-based fully connected layer     neural network, enhancing the predictive capability for brain age.

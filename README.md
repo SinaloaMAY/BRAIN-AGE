@@ -11,6 +11,7 @@
    4. Brain-age progression was associated with frailty.
 
  Full Synopsis and Impact:
+ 
 Motivation: Structural MRI-based brain-age models primarily capture volumetric changes, often missing early microstructural alterations that precede macroscopic atrophy. A multimodal approach is needed to detect these subtle changes for earlier intervention.
 
 Goal: To develop a multimodal neuroimaging model for accurate brain-age estimation and validate its correlation with clinical frailty.

@@ -34,7 +34,7 @@ Peri Ventricular White Matter Hyperintensities Change with Age:
 <img width="774" height="535" alt="image" src="https://github.com/user-attachments/assets/bbc6222e-b79c-4a06-8062-137200b82ae7" />
 
 Magnetic Susceptibility in Left Putamen Increase with Frailty Index:
-![Uploading image.png…]()
+<img width="776" height="308" alt="image" src="https://github.com/user-attachments/assets/b6fc7c5e-4cf9-499c-a1d4-3656e366d3a0" />
 
 Median magnetic susceptibility (MMS) in Putamen Left Increase with Age:
 <img width="771" height="572" alt="image" src="https://github.com/user-attachments/assets/b34d3af1-b0b9-4104-b1e6-6bd3fa099623" />

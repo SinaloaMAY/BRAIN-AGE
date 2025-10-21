@@ -11,15 +11,21 @@
    3. Twenty-seven MRI features from white matter microstructures, siderosis and brain vessels were informative for brain-age progression.
    4. Brain-age progression was associated with frailty.
 
- Full Synopsis and Impact:
- 
-Motivation: Structural MRI-based brain-age models primarily capture volumetric changes, often missing early microstructural alterations that precede macroscopic atrophy. A multimodal approach is needed to detect these subtle changes for earlier intervention.
+Full Synopsis and Impact:
+ Motivation: Structural MRI-based brain-age models primarily capture volumetric changes, often missing early microstructural alterations that precede macroscopic atrophy. A multimodal approach is needed to detect these subtle changes for earlier intervention.
+ Goal: To develop a multimodal neuroimaging model for accurate brain-age estimation and validate its correlation with clinical frailty.
+ Approach: Using UK Biobank data, we integrated T2-FLAIR, DTI, ASL, SWI, and task-fMRI through a fully connected neural network. The brain age prediction model was initially trained on 79 healthy participants and subsequently validated on an augmented cohort of 579 subjects. We further investigated the relationship between brain-age features and frailty in 724 adults (age range: 50-85 years; frailty index range: 0-3).
+ Results: The model achieved R²=0.81, MAE=2.82 years, RMSE=3.54 years. Key predictors included white matter microstructure (ICVF, ISOVF), cerebral blood flow, and iron deposition, which correlated significantly with frailty measures. 
+ Impact: Our framework provides a fast, accurate biomarker for brain aging linked to frailty, enabling early detection and offering immediate potential for clinical trials and monitoring.
 
-Goal: To develop a multimodal neuroimaging model for accurate brain-age estimation and validate its correlation with clinical frailty.
-
-Approach: Using UK Biobank data, we integrated T2-FLAIR, DTI, ASL, SWI, and task-fMRI through a fully connected neural network. The brain age prediction model was initially trained on 79 healthy participants and subsequently validated on an augmented cohort of 579 subjects. We further investigated the relationship between brain-age features and frailty in 724 adults (age range: 50-85 years; frailty index range: 0-3).
-
-Results: The model achieved R²=0.81, MAE=2.82 years, RMSE=3.54 years. Key predictors included white matter microstructure (ICVF, ISOVF), cerebral blood flow, and iron deposition, which correlated significantly with frailty measures. 
-
-Impact: Our framework provides a fast, accurate biomarker for brain aging linked to frailty, enabling early detection and offering immediate potential for clinical trials and monitoring.
+Peri Ventricular White Matter Hyperintensities Increase with Frailty Index: 
 <img width="731" height="304" alt="image" src="https://github.com/user-attachments/assets/c7df1d70-dd26-43b0-9eb6-366a8cafd3f2" />
+Peri Ventricular White Matter Hyperintensities Change with Age:
+<img width="774" height="535" alt="image" src="https://github.com/user-attachments/assets/bbc6222e-b79c-4a06-8062-137200b82ae7" />
+Magnetic Susceptibility in Left Putamen Increase with Frailty Index:
+<img width="771" height="572" alt="image" src="https://github.com/user-attachments/assets/1c33ec97-733b-4ed9-9997-35c928397bbb" />
+Median magnetic susceptibility (MMS) in Putamen Left Increase with Age:
+![Uploading image.png…]()
+
+
+

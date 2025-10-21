@@ -17,9 +17,13 @@ The algrithm performance:
 
 Full Synopsis and Impact:
  Motivation: Structural MRI-based brain-age models primarily capture volumetric changes, often missing early microstructural alterations that precede macroscopic atrophy. A multimodal approach is needed to detect these subtle changes for earlier intervention.
+ 
  Goal: To develop a multimodal neuroimaging model for accurate brain-age estimation and validate its correlation with clinical frailty.
+ 
  Approach: Using UK Biobank data, we integrated T2-FLAIR, DTI, ASL, SWI, and task-fMRI through a fully connected neural network. The brain age prediction model was initially trained on 79 healthy participants and subsequently validated on an augmented cohort of 579 subjects. We further investigated the relationship between brain-age features and frailty in 724 adults (age range: 50-85 years; frailty index range: 0-3).
+ 
  Results: The model achieved R²=0.81, MAE=2.82 years, RMSE=3.54 years. Key predictors included white matter microstructure (ICVF, ISOVF), cerebral blood flow, and iron deposition, which correlated significantly with frailty measures. 
+ 
  Impact: Our framework provides a fast, accurate biomarker for brain aging linked to frailty, enabling early detection and offering immediate potential for clinical trials and monitoring.
 
 Peri Ventricular White Matter Hyperintensities Increase with Frailty Index: 

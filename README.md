@@ -22,3 +22,4 @@ Approach: Using UK Biobank data, we integrated T2-FLAIR, DTI, ASL, SWI, and tas
 Results: The model achieved R²=0.81, MAE=2.82 years, RMSE=3.54 years. Key predictors included white matter microstructure (ICVF, ISOVF), cerebral blood flow, and iron deposition, which correlated significantly with frailty measures. 
 
 Impact: Our framework provides a fast, accurate biomarker for brain aging linked to frailty, enabling early detection and offering immediate potential for clinical trials and monitoring.
+<img width="731" height="304" alt="image" src="https://github.com/user-attachments/assets/c7df1d70-dd26-43b0-9eb6-366a8cafd3f2" />

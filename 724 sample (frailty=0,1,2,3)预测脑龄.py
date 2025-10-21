@@ -80,3 +80,4 @@ output_file_path = "C:/Users/15336/Desktop/新建文件夹/predicted_brain_age4.
 original_data.to_excel(output_file_path, index=False)
 
 print(f'预测结果已导出到 {output_file_path}')
+

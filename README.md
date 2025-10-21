@@ -2,6 +2,10 @@
    The FCNN was built in Python environment. This analysis utilized a dataset containing 27 input features extracted from neuroimaging data, with labels representing brain age. The FCNN model is structured as follows: the input layer accepts 27 features, the hidden layers structure is: [128 neurons, 64 neurons, 32 neurons, 16 neurons], all hidden layers are followed by batch normalization and Leaky ReLU activation. Output Layer: A linear layer that predicts the brain age. The model is trained using the mean squared error (MSE) loss function. The optimizer used is Adam with a learning rate of 0.001. The weights are initialized using the He initialization strategy. The training process involves iterating through the dataset for 300 epochs, where each batch is processed to update the model weights. The training loss is recorded for monitoring the convergence of the model. 
  Additionally, the model is evaluated on a validation set, with performance metrics including R², mean absolute error (MAE), and root mean squared error (RMSE) calculated to assess the accuracy of the brain age predictions. Data augmentation techniques including … are also employed to enhance the robustness of the model by randomly manipulating the input data.
 
+The algrithm performance:
+<img width="1107" height="287" alt="image" src="https://github.com/user-attachments/assets/a2ed7760-b840-448a-a685-328c40cfbe9e" />
+(A) The linear relationship between chronological age and predicted brain age in train set. (B) The linear relationship between chronological age and predicted brain age in validation set. (C) The linear relationship between chronological age and predicted brain age in validation set after augmentation.
+
 
 2. Project Title: Machine learning-based MRI brain-age prediction and relationship to frailty index
 

@@ -20,12 +20,16 @@ Full Synopsis and Impact:
 
 Peri Ventricular White Matter Hyperintensities Increase with Frailty Index: 
 <img width="731" height="304" alt="image" src="https://github.com/user-attachments/assets/c7df1d70-dd26-43b0-9eb6-366a8cafd3f2" />
+
 Peri Ventricular White Matter Hyperintensities Change with Age:
 <img width="774" height="535" alt="image" src="https://github.com/user-attachments/assets/bbc6222e-b79c-4a06-8062-137200b82ae7" />
+
 Magnetic Susceptibility in Left Putamen Increase with Frailty Index:
 <img width="771" height="572" alt="image" src="https://github.com/user-attachments/assets/1c33ec97-733b-4ed9-9997-35c928397bbb" />
+
 Median magnetic susceptibility (MMS) in Putamen Left Increase with Age:
-![Uploading image.png…]()
+<img width="771" height="572" alt="image" src="https://github.com/user-attachments/assets/b34d3af1-b0b9-4104-b1e6-6bd3fa099623" />
+
 
 
 
